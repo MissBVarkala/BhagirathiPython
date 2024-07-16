@@ -1,3 +1,6 @@
+# Take input from user and print the result
+
+
 name = input("User Name")
 Age = input("Enter your age")
 City = input ("Enter your city")
